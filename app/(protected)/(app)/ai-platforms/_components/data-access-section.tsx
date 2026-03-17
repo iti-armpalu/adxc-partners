@@ -1,4 +1,4 @@
-import { Ban, DollarSign, PoundSterling } from "lucide-react";
+import { Ban, DollarSign } from "lucide-react";
 import { Section } from "@/components/layout/section";
 import { Container } from "@/components/layout/container";
 import { SectionHeader } from "@/components/sections/section-header";
